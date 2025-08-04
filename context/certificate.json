@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "HackathonCredential": {
+      "@id": "https://github.com/jainhitesh9998/hackathon/context/certificate.json#HackathonCredential"
+    },
+    "participantName": "schema:name",
+    "teamName": "schema:Text",
+    "projectName": "schema:Text",
+    "hackathonName": "schema:Text",
+    "hackathonDate": "schema:date",
+    "stage": "schema:Text",
+    "placement": "schema:Text"
+  }
+}
